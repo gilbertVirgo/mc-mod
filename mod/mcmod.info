@@ -1,0 +1,12 @@
+[{
+  "modid": "gethmod",
+  "name": "Gethbert mod",
+  "description": "Adds some epic features",
+  "version": "1.0.0.0",
+  "mcversion": "1.15.1",
+  "logoFile": "assets/examplemod/textures/logo.png",
+  "url": "minecraftforge.net/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Seth","Gil"],
+  "credits": "No thanks to the university of Liverpool."
+}]
